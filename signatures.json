@@ -1,0 +1,20 @@
+{
+  "hashes": {
+    "44d88612fea8a8f36de82e1278abb02f6d2fca1a765d8f5b5c0d1e5d7f75f8f3": "EICAR-style training signature"
+  },
+  "spyware_keywords": [
+    "keylog",
+    "spy",
+    "stealer",
+    "credential",
+    "hook"
+  ],
+  "content_indicators": [
+    "getasynckeystate",
+    "setwindowshookex",
+    "pynput",
+    "keyboard.listener",
+    "clipboard",
+    "smtp"
+  ]
+}

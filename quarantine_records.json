@@ -1,0 +1,281 @@
+[
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RD61KWN\\BepInEx-master\\build.ps1",
+    "quarantined_name": "20260309084700_6e956feed1af4670a7f5fa1566940ab1_build.ps1.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084700_6e956feed1af4670a7f5fa1566940ab1_build.ps1.quarantine",
+    "detections": [
+      "Suspicious scriptable extension detected: .ps1"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:00.134349Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RD61KWN\\BepInEx-master\\Runtimes\\NET\\BepInEx.NET.CoreCLR\\HookEntrypoint.cs",
+    "quarantined_name": "20260309084701_aa56452b9b1d404caadd5e77abfeedcd_HookEntrypoint.cs.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084701_aa56452b9b1d404caadd5e77abfeedcd_HookEntrypoint.cs.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:01.350688Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RD61KWN\\BepInEx-master\\Runtimes\\Unity\\BepInEx.Unity.IL2CPP\\Hook\\Funchook\\FunchookDetour.cs",
+    "quarantined_name": "20260309084701_befc771904514395b53d44df7e1d4277_FunchookDetour.cs.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084701_befc771904514395b53d44df7e1d4277_FunchookDetour.cs.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:01.675791Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RD61KWN\\BepInEx-master\\Runtimes\\Unity\\BepInEx.Unity.IL2CPP\\Hook\\Funchook\\FunchookLib.cs",
+    "quarantined_name": "20260309084701_a1192c8f849c4c72994ed2d8188168a3_FunchookLib.cs.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084701_a1192c8f849c4c72994ed2d8188168a3_FunchookLib.cs.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:01.687120Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\cppmods\\EventViewerMod\\README.md",
+    "quarantined_name": "20260309084708_fca4aa83523f4b5baa73e4fa07810c89_README.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084708_fca4aa83523f4b5baa73e4fa07810c89_README.md.quarantine",
+    "detections": [
+      "File content contains suspicious term 'clipboard'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:08.594274Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\cppmods\\EventViewerMod\\src\\Structs.cpp",
+    "quarantined_name": "20260309084708_985b22cb71554a1284e70ac6982770e3_Structs.cpp.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084708_985b22cb71554a1284e70ac6982770e3_Structs.cpp.quarantine",
+    "detections": [
+      "File content contains suspicious term 'clipboard'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:08.785386Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\deps\\first\\Input\\src\\Platform\\Win32AsyncInputSource.cpp",
+    "quarantined_name": "20260309084709_c939f158f837416b972c36f70fb857f0_Win32AsyncInputSource.cpp.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084709_c939f158f837416b972c36f70fb857f0_Win32AsyncInputSource.cpp.quarantine",
+    "detections": [
+      "File content contains suspicious term 'getasynckeystate'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:09.718767Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\feature-overview\\blueprint-modloader.md",
+    "quarantined_name": "20260309084711_ae29445cc0274d45ae23608b971b1ef1_blueprint-modloader.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084711_ae29445cc0274d45ae23608b971b1ef1_blueprint-modloader.md.quarantine",
+    "detections": [
+      "File content contains suspicious term 'clipboard'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:11.469934Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerbeginplayposthook.md",
+    "quarantined_name": "20260309084712_5a7d3b30281e48849d9ffbfcece3348c_registerbeginplayposthook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_5a7d3b30281e48849d9ffbfcece3348c_registerbeginplayposthook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.228516Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerbeginplayprehook.md",
+    "quarantined_name": "20260309084712_7d35a5c4daf647e58eb9606f42cd169c_registerbeginplayprehook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_7d35a5c4daf647e58eb9606f42cd169c_registerbeginplayprehook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.239107Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registercallfunctionbynamewithargumentsposthook.md",
+    "quarantined_name": "20260309084712_891ff0f831014168bdc1c0dc65c1b10c_registercallfunctionbynamewithargumentsposthook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_891ff0f831014168bdc1c0dc65c1b10c_registercallfunctionbynamewithargumentsposthook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.253159Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registercallfunctionbynamewithargumentsprehook.md",
+    "quarantined_name": "20260309084712_4be5d067c5024580a3aad976f5f661fb_registercallfunctionbynamewithargumentsprehook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_4be5d067c5024580a3aad976f5f661fb_registercallfunctionbynamewithargumentsprehook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.266309Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerhook.md",
+    "quarantined_name": "20260309084712_8498703fd58e4311b7d45d8c8c2b9c66_registerhook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_8498703fd58e4311b7d45d8c8c2b9c66_registerhook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.319454Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerinitgamestateposthook.md",
+    "quarantined_name": "20260309084712_5caa3b94acc345f9a911ca8220865ce6_registerinitgamestateposthook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_5caa3b94acc345f9a911ca8220865ce6_registerinitgamestateposthook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.330087Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerinitgamestateprehook.md",
+    "quarantined_name": "20260309084712_4010513556dd42688ed0f434a34900f1_registerinitgamestateprehook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_4010513556dd42688ed0f434a34900f1_registerinitgamestateprehook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.340530Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerprocessconsoleexecposthook.md",
+    "quarantined_name": "20260309084712_92a68cba82924d2e8bda460e6042c474_registerprocessconsoleexecposthook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_92a68cba82924d2e8bda460e6042c474_registerprocessconsoleexecposthook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.363254Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerprocessconsoleexecprehook.md",
+    "quarantined_name": "20260309084712_2057e6c8d12d4c28882bf723add2d1e5_registerprocessconsoleexecprehook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_2057e6c8d12d4c28882bf723add2d1e5_registerprocessconsoleexecprehook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.374696Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerulocalplayerexecposthook.md",
+    "quarantined_name": "20260309084712_e136a40112744d2282005aec58bcd3ed_registerulocalplayerexecposthook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_e136a40112744d2282005aec58bcd3ed_registerulocalplayerexecposthook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.387088Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\registerulocalplayerexecprehook.md",
+    "quarantined_name": "20260309084712_5206ab73af8a40688a086ce9029195f7_registerulocalplayerexecprehook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_5206ab73af8a40688a086ce9029195f7_registerulocalplayerexecprehook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.398611Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\docs\\lua-api\\global-functions\\unregisterhook.md",
+    "quarantined_name": "20260309084712_7493a8f8ab644ef896fc323dee80bcef_unregisterhook.md.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_7493a8f8ab644ef896fc323dee80bcef_unregisterhook.md.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.431145Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\tools\\buildscripts\\build.ps1",
+    "quarantined_name": "20260309084712_d9d3d79e3e5f401189229bfcec905bad_build.ps1.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_d9d3d79e3e5f401189229bfcec905bad_build.ps1.quarantine",
+    "detections": [
+      "Suspicious scriptable extension detected: .ps1"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.610472Z"
+  },
+  {
+    "original_path": "C:\\$Recycle.Bin\\S-1-5-21-3154608364-3204067205-1785823524-1000\\$RHLI2UK.5\\GTAG-NOVR-v2.5\\GorrilaTagFanmadeMap\\RE-UE4SS-main\\RE-UE4SS-main\\tools\\buildscripts\\internal_build_tools\\set_version.bat",
+    "quarantined_name": "20260309084712_a73a4bb012904722b6368c5240726d8d_set_version.bat.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084712_a73a4bb012904722b6368c5240726d8d_set_version.bat.quarantine",
+    "detections": [
+      "Suspicious scriptable extension detected: .bat"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:12.647349Z"
+  },
+  {
+    "original_path": "C:\\Arquivos de Programas RFB\\IRPF2023\\exec.bat",
+    "quarantined_name": "20260309084722_fb0f69b4e1674f34ac3f556e583e00b8_exec.bat.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084722_fb0f69b4e1674f34ac3f556e583e00b8_exec.bat.quarantine",
+    "detections": [
+      "Suspicious scriptable extension detected: .bat"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:22.281870Z"
+  },
+  {
+    "original_path": "C:\\Arquivos de Programas RFB\\IRPF2024\\exec.bat",
+    "quarantined_name": "20260309084728_83a02dea4f064b1da45665ebdd392dfc_exec.bat.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084728_83a02dea4f064b1da45665ebdd392dfc_exec.bat.quarantine",
+    "detections": [
+      "Suspicious scriptable extension detected: .bat"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:28.622012Z"
+  },
+  {
+    "original_path": "C:\\Arquivos de Programas RFB\\IRPF2025\\exec.bat",
+    "quarantined_name": "20260309084734_818260d6f1bc4ff381a44acd6675dccb_exec.bat.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084734_818260d6f1bc4ff381a44acd6675dccb_exec.bat.quarantine",
+    "detections": [
+      "Suspicious scriptable extension detected: .bat"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:34.806675Z"
+  },
+  {
+    "original_path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud\\ACC\\Creative Cloud CustomHook.exe",
+    "quarantined_name": "20260309084750_27abd0819e804058b75c5a09fd95c983_Creative Cloud CustomHook.exe.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084750_27abd0819e804058b75c5a09fd95c983_Creative Cloud CustomHook.exe.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:47:50.657488Z"
+  },
+  {
+    "original_path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud\\Components\\Plugins\\resources\\translations\\ja_JP.json",
+    "quarantined_name": "20260309084833_712df943c3a04dc380deae5dfc000234_ja_JP.json.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084833_712df943c3a04dc380deae5dfc000234_ja_JP.json.quarantine",
+    "detections": [
+      "File content contains suspicious term 'clipboard'"
+    ],
+    "timestamp_utc": "2026-03-09T08:48:33.959534Z"
+  },
+  {
+    "original_path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud\\Components\\Plugins\\resources\\translations\\ko_KR.json",
+    "quarantined_name": "20260309084833_55066fcc324441c4a3480385e5ccaa29_ko_KR.json.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084833_55066fcc324441c4a3480385e5ccaa29_ko_KR.json.quarantine",
+    "detections": [
+      "File content contains suspicious term 'clipboard'"
+    ],
+    "timestamp_utc": "2026-03-09T08:48:33.973192Z"
+  },
+  {
+    "original_path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud\\Components\\Plugins\\resources\\translations\\zh_CN.json",
+    "quarantined_name": "20260309084834_432dfc4651834a7880764aa2221485a4_zh_CN.json.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084834_432dfc4651834a7880764aa2221485a4_zh_CN.json.quarantine",
+    "detections": [
+      "File content contains suspicious term 'clipboard'"
+    ],
+    "timestamp_utc": "2026-03-09T08:48:34.088151Z"
+  },
+  {
+    "original_path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud\\Components\\Plugins\\resources\\translations\\zh_TW.json",
+    "quarantined_name": "20260309084834_5f8caf22bd904a9d82c130d60a6893c4_zh_TW.json.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084834_5f8caf22bd904a9d82c130d60a6893c4_zh_TW.json.quarantine",
+    "detections": [
+      "File content contains suspicious term 'clipboard'"
+    ],
+    "timestamp_utc": "2026-03-09T08:48:34.098995Z"
+  },
+  {
+    "original_path": "C:\\Program Files\\Adobe\\Adobe Creative Cloud Experience\\js\\customhook.js",
+    "quarantined_name": "20260309084836_ff6cd09df9c645a59c8a24a111167e4a_customhook.js.quarantine",
+    "quarantined_path": "C:\\Users\\WG\\Downloads\\NovaShield\\quarantine\\storage\\20260309084836_ff6cd09df9c645a59c8a24a111167e4a_customhook.js.quarantine",
+    "detections": [
+      "Filename contains spyware keyword 'hook'"
+    ],
+    "timestamp_utc": "2026-03-09T08:48:36.024338Z"
+  }
+]
